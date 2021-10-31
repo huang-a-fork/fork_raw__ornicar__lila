@@ -72,18 +72,18 @@ public/sounds/lisp | [EdinburghCollective](http://lichess.org/@/EdinburghCollect
 ## Exceptions (non-free)
 
 <!-- prettier-ignore -->
-Files | Author(s) | License
---- | --- | ---
-public/logo, public/favicon.ico, public/apple-touch-icon.png | sadsnake1 | Only use to refer to lichess.org
-public/piece/alpha | Eric Bentzen | "free for personal non commercial use" (see [zip](http://www.enpassant.dk/chess/downl/alpha.zip))
-public/piece/chess7 | [Style-7](http://www.styleseven.com/) | "freeware"
-public/piece/companion | David L. Brown | ["freeware"](http://www.enpassant.dk/chess/fonteng.htm#GC)
-public/piece/fantasy | [Maurizio Monge](http://poisson.phc.unipi.it/~monge/chess_art.php) | "give credit in a suitable way"
-public/piece/leipzig | Armando Hernandez Marroquin | ["freeware"](http://www.enpassant.dk/chess/fonteng.htm#LEIPZIG)
-public/piece/spatial | [Maurizio Monge](http://poisson.phc.unipi.it/~monge/chess_art.php) | "give credit in a suitable way"
-public/piece/reillycraig | [Reilly Craig](https://instagram.com/fader_) |
-public/piece/riohacha | |
-public/images/staunton/piece/Staunton | [Eden Murs](https://userstyles.org/styles/134558/lichess-pieces-3d-staunton) (?) |
+Filtered | Files | Author(s) | License
+--- | --- | --- | ---
+N | public/logo, public/favicon.ico, public/apple-touch-icon.png | sadsnake1 | Only use to refer to lichess.org
+Y | public/piece/alpha | Eric Bentzen | "free for personal non commercial use" (see [zip](http://www.enpassant.dk/chess/downl/alpha.zip))
+Y | public/piece/chess7 | [Style-7](http://www.styleseven.com/) | "freeware"
+Y | public/piece/companion | David L. Brown | ["freeware"](http://www.enpassant.dk/chess/fonteng.htm#GC)
+Y | public/piece/fantasy | [Maurizio Monge](http://poisson.phc.unipi.it/~monge/chess_art.php) | "give credit in a suitable way"
+Y | public/piece/leipzig | Armando Hernandez Marroquin | ["freeware"](http://www.enpassant.dk/chess/fonteng.htm#LEIPZIG)
+N | public/piece/spatial | [Maurizio Monge](http://poisson.phc.unipi.it/~monge/chess_art.php) | "give credit in a suitable way"
+N | public/piece/reillycraig | [Reilly Craig](https://instagram.com/fader_) |
+N | public/piece/riohacha | |
+N | public/images/staunton/piece/Staunton | [Eden Murs](https://userstyles.org/styles/134558/lichess-pieces-3d-staunton) (?) |
 
 - The other sounds in public/sound.
 - The other artwork in public/images.
